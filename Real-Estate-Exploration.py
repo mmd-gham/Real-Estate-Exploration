@@ -12,7 +12,7 @@ from scipy.stats import norm
 
 
 # Loading our dataset
-df_properties = pd.read_csv("properties_data.csv")
+df_properties = pd.read_csv("Real-Estate-Data.csv")
 df_properties.head(3)
 
 
